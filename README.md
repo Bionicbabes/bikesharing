@@ -16,3 +16,7 @@
 
 ---------------------------------
 
+For the analysis of the ride sharing data please visit my public tableau sharing link.
+
+[NYC Citi-Bike Ridesharing](https://public.tableau.com/app/profile/soren.sprissler/viz/NYCCiti-BikeRideSharing/Story1?publish=yes)
+
