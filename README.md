@@ -32,6 +32,7 @@
 
 
 - For Summary analysis please follow my Story to give a full picture of the analysis 
+
 [NYC Citi-Bike Ridesharing Story](https://public.tableau.com/app/profile/soren.sprissler/viz/NYCCiti-BikeRideSharing/Story1?publish=yes)
 
 ---------------------------------
