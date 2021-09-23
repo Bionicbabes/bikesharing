@@ -17,6 +17,7 @@
 ---------------------------------
 
 - For the analysis of the ride sharing data please visit my public tableau sharing link.
+
 [Checkout Times for Users Viz](https://public.tableau.com/views/NYCCiti-BikeRideSharing/CheckoutTimesforAllUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [Checkout Times by Gender Viz](https://public.tableau.com/views/NYCCiti-BikeRideSharing/CheckoutTimesforUsersbyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
@@ -28,9 +29,6 @@
 [Trips by Gender (Weekday per Hour) Viz](https://public.tableau.com/views/NYCCiti-BikeRideSharing/GenderTripsbyWeekdayperHour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 [User Trips by Gender by Weekday Viz](https://public.tableau.com/views/NYCCiti-BikeRideSharing/Usertype-genderTripbyWeekday?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
-
-
 
 
 - For Summary analysis please follow my Story to give a full picture of the analysis 
